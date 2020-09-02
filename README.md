@@ -1,4 +1,4 @@
-# discrete-wavelet-transform-with-R Haar soft Thresholding Transform
+# discrete-wavelet-transform-with-R 
 
 install.packages("rdwd")
 library("wavethresh")
